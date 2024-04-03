@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App{
+  box-shadow: 1px 1px 101px black;
+  width: 90%;
+  height: 50vh;
+  margin: auto;
+  border-radius: 5px;
+  
+  
+}
+
+.App h1{
+  font-family: monospace;
+  text-shadow: 1px 3px 15px rgb(129, 84, 84);
+}
+.btn{
+  background-color: blanchedalmond;
+  border-radius: 8px;
+  height: 25px;
+  width: 100px;
+}
+.dbBtn{
+  background-color: aqua;
+  border-radius: 15px;
+  
+}
